@@ -1,0 +1,27 @@
+{
+  "name": "30-frontend-projects-challenge",
+  "version": "1.0.0",
+  "description": "Creating 30 websites from scratch using html, css and javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sendistephen/30-frontend-projects-challenge.git"
+  },
+  "keywords": [
+    "JTML",
+    "CSS",
+    "JAVASCRIPT",
+    "SASS",
+    "FLEXBOX",
+    "GRID-LAYOUT"
+  ],
+  "author": "Ssendikadiwa Stephen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sendistephen/30-frontend-projects-challenge/issues"
+  },
+  "homepage": "https://github.com/sendistephen/30-frontend-projects-challenge#readme"
+}
